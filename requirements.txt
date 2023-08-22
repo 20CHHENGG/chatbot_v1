@@ -40,8 +40,6 @@ outcome==1.2.0
 pandas==2.0.2
 pdfminer.six==20221105
 platformdirs==3.1.0
-PyAutoGUI==0.9.53
-PyBluez==0.30
 pycodestyle==2.10.0
 pycparser==2.21
 PyGetWindow==0.0.9
