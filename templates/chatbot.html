@@ -126,7 +126,8 @@
             </div>
           </div>
         </div>
-        {% for chat in chats %} {% if chat.user == request.user %}
+        {% for chat in chats %} 
+        {% if chat.user == request.user %}
         <div class="message sent">
           <div class="message-text" id="clientSend">
             <div class="message-sender">
